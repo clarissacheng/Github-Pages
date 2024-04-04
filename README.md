@@ -1,3 +1,3 @@
 # Github-Pages
 
-https://github.com/clarissacheng/Github-Pages 
+https://clarissacheng.github.io/Github-Pages/
